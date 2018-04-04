@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>color_fondo</key>
+        <value>RED</value>
+    </entry>
+    <entry>
+        <key>acerca_de</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>PerformanceMonitoring</key>
+        <value>0</value>
+    </entry>
+</defaultsMap>
