@@ -3,5 +3,7 @@
     <string name="action_settings">Settings</string>
     <string name="com.crashlytics.useFirebaseAppId">true</string>
     <string name="facebook_app_id">204588370315045</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">9viXfSEeCGoME6sqgHQhmP2k1</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">jaATtHObipFiAmRHzeOF3LT9o9z1B0S5wlB3KWY9nAVJaw9jUm</string>
 
 </resources>
